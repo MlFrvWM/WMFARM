@@ -2608,7 +2608,7 @@ end)
 local noteTab = window:AddTab("Note")
 
 -- Add a decorative header with centered text
-noteTab:AddLabel("NOVA HUB")
+noteTab:AddLabel("By SN")
 
 -- Add spacers for better layout
 noteTab:AddLabel("")
